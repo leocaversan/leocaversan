@@ -2,26 +2,6 @@
 
   # Hello, I'm Caversan, be welcome!
 
-<div style="align-text: left;">
-  <p>
-    Back-End Developer | Front-End Developer | Data Analyst at @Deloitte
-  </p>
-  <p>
-    Company: Deloitte Touche Tohmatsu Limited
-  </p>
-  <p>
-    Location: Campinas-SP
-  </p>
-  <p>
-    Mail: leocaversan7@gmail.com
-  </p>
-  <p>
-    Portfolio: https://leocaversan.github.io/personalBlog/ 
-  </p>
-  <p>
-    Linkedin: in/leonardo-caversan-moi/
-  </p>
-</div>
 <img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api?username=leocaversan&count_private=true&include_all_commits=true&theme=dracula" />
 &nbsp;
 &nbsp;
