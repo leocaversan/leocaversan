@@ -1,24 +1,31 @@
 <div class='container' align='center'>
-  
-# Hello, I'm Caversan, be welcome!
-Back-End Developer | Front-End Developer | Data Analyst at @Deloitte
-<br>
-Company: Deloitte Touche Tohmatsu Limited
-<br>
-Location: Campinas-SP
-<br>
-Mail: leocaversan7@gmail.com
-<br>
-Portfolio: https://leocaversan.github.io/personalBlog/ 
-<br>
-Linkedin: in/leonardo-caversan-moi/
 
-<br>
-<br>
-  
+  # Hello, I'm Caversan, be welcome!
+
+<div style="align-text: left;">
+  <p>
+    Back-End Developer | Front-End Developer | Data Analyst at @Deloitte
+  </p>
+  <p>
+    Company: Deloitte Touche Tohmatsu Limited
+  </p>
+  <p>
+    Location: Campinas-SP
+  </p>
+  <p>
+    Mail: leocaversan7@gmail.com
+  </p>
+  <p>
+    Portfolio: https://leocaversan.github.io/personalBlog/ 
+  </p>
+  <p>
+    Linkedin: in/leonardo-caversan-moi/
+  </p>
+</div>
 <img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api?username=leocaversan&count_private=true&include_all_commits=true&theme=dracula" />
 &nbsp;
 &nbsp;
+<br>
 <img height="180em" align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=leocaversan&layout=compact&langs_count=7&card_width=250&theme=dracula" />
 
 <!-- Focus on what matters -->
@@ -51,7 +58,7 @@ Linkedin: in/leonardo-caversan-moi/
   
    <!-- here you'll change for your link: https://github.com/leocaversan/leocaversan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark -->
    <!-- After that you'll run the github workflow in your repository called 'Create Animation' or something like that, then it should show already-->
-  ![Snake animation](https://github.com/v-macrev/leocaversan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark?palette=github-dark)
+  ![Snake animation](https://github.com/leocaversan/leocaversan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark?palette=github-dark)
  
 </div>
 
