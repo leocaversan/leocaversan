@@ -32,7 +32,7 @@
   
    <!-- here you'll change for your link: https://github.com/leocaversan/leocaversan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark -->
    <!-- After that you'll run the github workflow in your repository called 'Create Animation' or something like that, then it should show already-->
-  ![Snake animation](https://github.com/leocaversan/leocaversan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark?palette=github-dark)
+  ![Snake animation](https://github.com/v-macrev/leocaversan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark?palette=github-dark)
  
 </div>
 
